@@ -24,10 +24,11 @@ Looking for lottie files › https://www.lottiefiles.com/
 Import pinjump.json.json as animation data
 
 ```jsx
+import {Component} from 'inferno';
 import Lottie from 'inferno-lottie';
 import * as animationData from './pinjump.json'
 
-export default class LottieControl extends React.Component {
+export default class LottieControl extends Component {
 
   constructor(props) {
     super(props);
