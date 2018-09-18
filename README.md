@@ -1,9 +1,4 @@
-# Lottie Animation View for React ([Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
-
-[![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
-
-## Demo
-https://chenqingspring.github.io/react-lottie
+# Lottie Animation View for Inferno ([React](https://github.com/chenqingspring/react-lottie)[Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
 
 ## Wapper of bodymovin.js
 
@@ -24,20 +19,12 @@ Bundle vector animations within your app without having to worry about multiple 
 
 Looking for lottie files › https://www.lottiefiles.com/
 
-## Installation
-
-Install through npm:
-```
-npm install --save react-lottie
-```
-
 ## Usage
 
 Import pinjump.json.json as animation data
 
 ```jsx
-import React from 'react'
-import Lottie from 'react-lottie';
+import Lottie from 'inferno-lottie';
 import * as animationData from './pinjump.json'
 
 export default class LottieControl extends React.Component {
@@ -116,6 +103,7 @@ eventListeners=[
 
 ## Related Projects
 
+* [React](https://github.com/chenqingspring/react-lottie) react implementation
 * [Bodymovin](https://github.com/bodymovin/bodymovin) react-lottie is a wrapper of bodymovin
 * [Angular Lottie](https://github.com/chenqingspring/ng-lottie) angular implementation
 * [Vue Lottie](https://github.com/chenqingspring/vue-lottie) vue implementation
