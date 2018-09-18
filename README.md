@@ -1,4 +1,4 @@
-# Lottie Animation View for Inferno ([React](https://github.com/chenqingspring/react-lottie)[Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
+# Lottie Animation View for Inferno ([React](https://github.com/chenqingspring/react-lottie), [Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
 
 ## Wapper of bodymovin.js
 
